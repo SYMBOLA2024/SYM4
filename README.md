@@ -1,6 +1,6 @@
 # SYM4: Serial Command Interface for ESP32
 
-[Get the guide here](https://symbola.co.uk/download/21/esp32/281/sym4.pdf)
+[Get the guide here](https://www.symbola.co.uk/download.php?file=SYM4)
 
 This code simplifies setting up FreeRTOS on the ESP32, aimed at developers of all levels. This quick setup guide covers hardware and software requirements, setting up a PlatformIO project, testing the serial command interface, adding commands, and incorporating FreeRTOS tasks. It's designed to quickly enhance your ESP32 projects.
 
@@ -14,7 +14,7 @@ This code simplifies setting up FreeRTOS on the ESP32, aimed at developers of al
 
 ## Quick Start
 
-Access the guide [here](https://symbola.co.uk/download/21/esp32/281/sym4.pdf).
+Access the guide [here](https://www.symbola.co.uk/download.php?file=SYM4).
 
 ## Contributing
 
