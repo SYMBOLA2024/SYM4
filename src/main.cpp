@@ -5,8 +5,8 @@
 
 // main.cpp
 #include <Arduino.h>
-#include <freertos/FreeRTOS.h>
-#include <freertos/task.h>
+// #include <freertos/FreeRTOS.h>
+// #include <freertos/task.h>
 
 #include "main.h"
 #include "CommandInterfaceTask.h"
@@ -33,7 +33,7 @@ void setup() {
     createTasks();
 
     // Start the scheduler.
-    vTaskStartScheduler();
+    // vTaskStartScheduler();
 }
 
 void loop() {
